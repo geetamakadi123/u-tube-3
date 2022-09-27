@@ -15,5 +15,5 @@ User can search for any videos according to their choice.
 * #### JavaScript
 
 # **🔗 Deployed Link**
-_This project is deployed on netlify here - [Myntra website clone](https://youtube-appss.netlify.app)_
+_This project is deployed on netlify here - [You tube clone](https://youtube-appss.netlify.app)_
 
